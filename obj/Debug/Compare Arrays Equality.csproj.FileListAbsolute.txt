@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\Compare Arrays Equality\bin\Debug\Compare Arrays Equality.exe.config
+C:\Users\DELL\source\repos\Compare Arrays Equality\bin\Debug\Compare Arrays Equality.exe
+C:\Users\DELL\source\repos\Compare Arrays Equality\bin\Debug\Compare Arrays Equality.pdb
+C:\Users\DELL\source\repos\Compare Arrays Equality\obj\Debug\Compare Arrays Equality.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Compare Arrays Equality\obj\Debug\Compare Arrays Equality.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Compare Arrays Equality\obj\Debug\Compare Arrays Equality.exe
+C:\Users\DELL\source\repos\Compare Arrays Equality\obj\Debug\Compare Arrays Equality.pdb
